@@ -1,0 +1,8 @@
+https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgsfhbd
+
+cd C:\OCHacker
+npm install mongodb
+npm install express
+npm install mongoose --save
+npm install --save-dev nodemon
+npm install email-validator
